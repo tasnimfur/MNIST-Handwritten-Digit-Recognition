@@ -1,6 +1,6 @@
 Instructions on how to run the code:
 
 1) Download the code
-2) Download keras module, numpy, and opencv if they are not downloaded on your computer.
+2) Modules that need to be installed on your computer: keras, numpy, opencv, and tensorflow.
 3) To run the file, open a terminal window and navigate to the folder where the file is downloaded and execute code using the following command:
     > python3 Digit_Recognizer.py
